@@ -1,8 +1,12 @@
-# Git, GitHub, and Team Collaboration
+# Project title 
+Git, GitHub, and Team Collaboration
 
-# student profile using css and html
+# Short project description
+student profile using css and html
 
-# Karl Axel Mulingbayan
+# Student name
+Karl Axel Mulingbayan
 
-# BSIT BA 3303
+# Course and section
+ BSIT BA 3303
 
